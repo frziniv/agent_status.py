@@ -1,2 +1,9 @@
 # agent_status.py
-Project to develop and train a competitive gaming agent. The primary goal is to achieve the number one rank across all supported games through advanced strategies and machine learning.
+
+agent_name = "Dominator_AI"
+status = "Initializing..."
+objective = "Achieve world #1 rank in all battles."
+
+print(f"Agent: {agent_name}")
+print(f"Status: {status}")
+print(f"Primary Objective: {objective}")
