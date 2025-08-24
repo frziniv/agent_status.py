@@ -1,6 +1,6 @@
 # agent_status.py
 
-agent_name = "Dominator_AI"
+agent_name = "Dominator_
 level = 1
 status = "Ready for battle!"
 objective = "Achieve world #1 rank in all battles."
